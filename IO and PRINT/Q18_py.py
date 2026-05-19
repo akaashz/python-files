@@ -1,0 +1,5 @@
+print("DOB")
+d=int(input("enter the date = "))
+m=int(input("enter the Month = "))
+y=int(input("enter the year = "))
+print(f"{d}/{m}/{y}")
